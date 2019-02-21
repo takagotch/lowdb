@@ -175,7 +175,7 @@ npm install lowdb
 yarn add lowdb
 ```
 
-```
+```json
 {
   "posts": [
     { "id": 1, "title": "lowdb is awesome"}
